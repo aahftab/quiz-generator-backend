@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Project specific
+uploads/
+processed/
+*.pdf
+*.json
+
+# Logs
+*.log
+logs/
+
+.pytest_cache/
+
+# Flask/Django
+instance/
+.webassets-cache
