@@ -29,8 +29,8 @@ venv.bak/
 *~
 
 # Project specific
-uploads/
-processed/
+uploads/*
+processed/*
 *.pdf
 *.json
 
